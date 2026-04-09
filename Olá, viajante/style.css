@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://i.redd.it/iod0phd4ivpf1.gif);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.conteudo {
+    color: black;
+    text-align: top bottom;
+    padding-top: 20%;
+    font-family: Arial, sans-serif;
+}
